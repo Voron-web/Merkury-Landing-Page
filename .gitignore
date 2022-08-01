@@ -1,4 +1,6 @@
+.gitignore
 img/
 *.psd
 *.zip
 *.txt
+.vscode/
